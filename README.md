@@ -1,2 +1,2 @@
-# Ejercicios_Prolog
+# Ejercicios Prolog
 Introducción a Prolog - Ejercicios
